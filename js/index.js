@@ -6,7 +6,7 @@ if (hamburer) {
     navList.classList.toggle("open");
   });
 }
-
+console.log('hello')
 // Popup
 const popup = document.querySelector(".popup");
 const closePopup = document.querySelector(".popup-close");
